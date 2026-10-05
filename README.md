@@ -8,3 +8,5 @@ BNAN430 - Account Profitability and Service Tiers - set of charts that show whic
 
 
 BNAN430 - PowerBI Certificate - https://public.tableau.com/app/profile/jake.stafford/viz/powerbicertificatew/PowerBIStory
+
+BNAN430 - DAX in PowerBI Certificate - https://public.tableau.com/views/powerbicertificatew/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
