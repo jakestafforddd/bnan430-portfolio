@@ -17,3 +17,6 @@ In the DAX in PowerBI Course, I built the Model view relationships by hand. I dr
 My division of labor: I would use Excel for any one-off calculations where nobody needs to touch the file again. I would use Tableau when the deliverable is a polished anr presentation ready story for an audience outside the data team.  I would use PowerBI when the data refreshes regularly and more than one person needs to interact with it live (filtering, drilling down, weekly checks). 
 
 My gap: I have only built these reports in DataCamp. I have never publishjed a report to the PowerBI service or kept one running against live company data that other people depend on. That is the next thing that I need hands-on repetition on before I'd call myself ready to own a report at Southwest.
+
+
+BNAN430 - dvancing in Excel and Tableau - Pt. 3 - https://public.tableau.com/views/beardownbank-flexassignment/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link - If I did it again, I would add a filter for card type instead of showing the full breakdown in a single static chart.
