@@ -19,4 +19,6 @@ My division of labor: I would use Excel for any one-off calculations where nobod
 My gap: I have only built these reports in DataCamp. I have never publishjed a report to the PowerBI service or kept one running against live company data that other people depend on. That is the next thing that I need hands-on repetition on before I'd call myself ready to own a report at Southwest.
 
 
-BNAN430 - dvancing in Excel and Tableau - Pt. 3 - https://public.tableau.com/views/beardownbank-flexassignment/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link - If I did it again, I would add a filter for card type instead of showing the full breakdown in a single static chart.
+BNAN430 - Advancing in Excel and Tableau - Pt. 3 - https://public.tableau.com/views/beardownbank-flexassignment/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link - If I did it again, I would add a filter for card type instead of showing the full breakdown in a single static chart.
+
+BNAN430 - Advancing in Excel and Tableau - Pt. 4 - https://public.tableau.com/views/bnan225flex/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link - If I did it again, I would not wait until the day that it is due! I would be much more proactive and get ahead on the assignment, rather than try and cram it all in. 
