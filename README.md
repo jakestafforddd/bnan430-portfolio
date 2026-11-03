@@ -22,3 +22,20 @@ My gap: I have only built these reports in DataCamp. I have never publishjed a r
 BNAN430 - Advancing in Excel and Tableau - Pt. 3 - https://public.tableau.com/views/beardownbank-flexassignment/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link - If I did it again, I would add a filter for card type instead of showing the full breakdown in a single static chart.
 
 BNAN430 - Advancing in Excel and Tableau - Pt. 4 - https://public.tableau.com/views/bnan225flex/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link - If I did it again, I would not wait until the day that it is due! I would be much more proactive and get ahead on the assignment, rather than try and cram it all in. 
+
+
+BNAN 430 - Data Storytelling with Adobe Express - https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:151ca242-761d-56c0-8312-220b676fe01e?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other
+
+Client: Southwest Office Solutions - Prepared for: Marcus Reyes, VP of Sales 
+
+Decision: Which one change to make to the account service policy 
+
+Recommendation: Lower cost of serving Inside Sales accounts below $353 per account. After service costs, the tier lost $16,822 from 2022 to 2025. 
+
+Design Choices: I chose a diverging bar chart of net contribution by service tier over a revenue-by-tier view. On revenue, Inside Sales looks like the healthiest tier at $1.22M. The loss only appears once cost to serve is subtracted, and cost to serve is the lever Marcus controls through policy. I removed the top-and-bottom-10 accounts chart from my earlier dashboard. That kept customer names off the page and kept Marcus focused on one tier and one decision rather than individual accounts. 
+
+Data Note: Account-level analysis covers 9,894 of 9,906 order records; 12 records have no customer ID. Tiers are assigned from total 2022–2025 account revenue per the Account Policy, and net contribution is gross profit minus cost to serve.
+
+AI Use: Claude by Anthropic was used to help with design suggestion, color profiles, and design layout for visual. 
+
+
