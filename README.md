@@ -38,4 +38,7 @@ Data Note: Account-level analysis covers 9,894 of 9,906 order records; 12 record
 
 AI Use: Claude by Anthropic was used to help with design suggestion, color profiles, and design layout for visual. 
 
+BNAN430 - Product Pitch in Adobe Express - Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve a six-week first phase to find how to serve the 359 Inside Sales accounts profitably, a tier that lost $16,822 after service costs from 2022 to 2025 - [stafford-product-pitch.pdf](https://github.com/user-attachments/files/34978812/stafford-product-pitch.pdf) - Claude by Anthropic was used to help with charts and curate action titles - https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:b188e116-aba4-4f66-83aa-4feac3c4d831?accept=true&invite=true&promoid=YXPZFV9S&mv=other - Toughest objection: "Why not just move all of Inside Sales to Self-Serve?" Slide 6 answers it: 185 of the 359 accounts already earn more than they cost ($71,381 combined), and Self-Serve accounts net only $43 each, so a blanket move would put profitable accounts at risk. Phase 1 sorts the accounts one at a time, so only the 174 that lose money change service. - Training completed: Monday, November 16th, 2026
+
+
 
